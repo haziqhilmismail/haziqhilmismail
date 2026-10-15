@@ -13,4 +13,4 @@ Python, SQL, Apache Airflow, Microsoft Fabric, MongoDB, FastAPI, Docker, Kuberne
 
 ## Contact
 
-[Email](mailto:muhd.haziq.b.hilmi@gmail.com) · [LinkedIn](https://linkedin.com/in/haziqhilmi)
+[Portfolio](https://haziqhilmi.com) · [Email](mailto:muhd.haziq.b.hilmi@gmail.com) · [LinkedIn](https://linkedin.com/in/haziqhilmi)
