@@ -4,7 +4,7 @@ Data engineer in Selangor, Malaysia. I build data pipelines at work, and I run m
 
 ## Projects
 
-- **[MTG Card Scanner](https://mtgscanner.online):** take one photo of a pile of Magic: The Gathering cards, and it names and prices each card. I use it when I sell cards at night markets.
+- **[MTG Card Scanner](https://mtg.haziqhilmi.com):** take one photo of a pile of Magic: The Gathering cards, and it names and prices each card. I use it when I sell cards at night markets.
 - **[Minerr](https://github.com/haziqhilmismail/minerr):** my own Migaku, as a Chrome extension. It underlines each Japanese word by how well I know it. When I find a new word in a YouTube subtitle, I press A and it becomes an Anki card with the sentence and the audio of that line.
 - **[AFK Minimize](https://github.com/haziqhilmismail/afk-minimize):** a RuneLite plugin. It minimizes the client a moment after a notification brings it to the front.
 
